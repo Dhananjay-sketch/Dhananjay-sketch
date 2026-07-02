@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Dhananjaya Dharshan
+# Hi there! 👋 I'm Dhananjaya Dharshan s
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Python+Developer;Aspiring+Data+Analyst;Business+Intelligence+Enthusiast;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+</p>
 
 ## 🚀 Python Developer | Aspiring Data Analyst | Business Intelligence Enthusiast
 
@@ -20,36 +23,11 @@ I'm currently seeking opportunities as a:
 
 ## 💻 Tech Stack
 
-### Programming Languages
-- Python
-- SQL
-- JavaScript
-- C
-- C++
+<p align="left">
 
-### Data Analytics
-- Microsoft Excel
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI *(Learning)*
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,flask,git,github,vscode,mongodb" />
 
-### Web Development
-- HTML
-- CSS
-- Flask
-- REST APIs
-
-### Databases
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
-
+</p>
 ---
 
 # 📊 Featured Projects
@@ -108,5 +86,13 @@ Designed an IoT-based emergency alert system integrating GPS and sensors for rea
 > *"Data is only valuable when it drives better decisions."*
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhananjay-sketch&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay-sketch&layout=compact&theme=tokyonight"/>
+
+</p>
 ⭐ Thanks for visiting my profile!
