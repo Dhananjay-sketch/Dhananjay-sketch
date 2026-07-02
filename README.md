@@ -95,4 +95,11 @@ Designed an IoT-based emergency alert system integrating GPS and sensors for rea
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay-sketch&layout=compact&theme=tokyonight"/>
 
 </p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhananjay-sketch&theme=algolia&row=1&column=6"/>
+
+</p>
 ⭐ Thanks for visiting my profile!
