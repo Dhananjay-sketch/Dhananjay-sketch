@@ -111,7 +111,7 @@ IoT-based emergency alert system integrating GPS and sensors.
 
 📧 **Email:** dhananjaydharshan255@gmail.com
 
-💼 **LinkedIn:** *(Add your LinkedIn URL here)*
+💼 **LinkedIn:** www.linkedin.com/in/dhananjay-darshan-s-1b0249330
 
 🐙 **GitHub:** https://github.com/Dhananjay-sketch
 
