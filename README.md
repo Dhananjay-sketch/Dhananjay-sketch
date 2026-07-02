@@ -109,7 +109,7 @@ IoT-based emergency alert system integrating GPS and sensors.
 
 ## 📫 Connect With Me
 
-📧 **Email:** dhananjaydharshan255@gmail.com
+📧 **Email:** s.dhananjaydharshan255@gmail.com
 
 💼 **LinkedIn:** www.linkedin.com/in/dhananjay-darshan-s-1b0249330
 
