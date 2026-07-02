@@ -1,42 +1,46 @@
-# Hi 👋, I'm Dhananjaya Dharshan
+# Hi there! 👋 I'm Dhananjaya Dharshan
 
-## 💻 Computer Science Engineering Student | Python Developer | Full Stack Web Developer
+## 🚀 Python Developer | Aspiring Data Analyst | Business Intelligence Enthusiast
 
-I'm passionate about building web applications, backend systems, automation tools, and AI-powered solutions using Python and JavaScript.
+I'm a Computer Science Engineering student passionate about solving real-world business problems using **Python, SQL, Data Analytics, and Business Intelligence**.
 
-🌱 Currently learning:
-- Full Stack Web Development
-- Backend Development
-- REST APIs
-- Data Structures & Algorithms
-
-👨‍💻 Looking for:
-- Python Developer Internship
-- Web Developer Internship
+I enjoy transforming raw data into actionable insights, building automation tools, and developing scalable applications that make decision-making easier.
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 Career Objective
 
-### Languages
+I'm currently seeking opportunities as a:
+
+- Python Developer Intern
+- Data Analyst Intern
+- Business Intelligence Intern
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
 - Python
+- SQL
 - JavaScript
 - C
 - C++
-- SQL
 
-### Frontend
-- HTML5
-- CSS3
-- React
-- Tailwind CSS
+### Data Analytics
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI *(Learning)*
 
-### Backend
+### Web Development
+- HTML
+- CSS
 - Flask
-- Node.js
-- Express.js
+- REST APIs
 
-### Database
+### Databases
 - MySQL
 - MongoDB
 
@@ -48,27 +52,60 @@ I'm passionate about building web applications, backend systems, automation tool
 
 ---
 
-## ⭐ Featured Projects
+# 📊 Featured Projects
 
-### Employee Management System
-Python • SQL
-
-### Smart Campus Navigator
-Python • OpenCV
-
-### Emotion Detection System
-Python • DeepFace • OpenCV
-
-### Accident Detection & Alert System
-Python • IoT • GPS
+## 📈 Vrinda Store Sales Analysis
+Analyzed sales data using Excel to identify customer behavior, top-performing states, revenue trends, and actionable business insights.
 
 ---
 
-## 📫 Contact
+## 👨‍💼 Employee Management System
+Python + MySQL application with CRUD operations for managing employee records efficiently.
 
-📧 Email: dhananjaydharshan255@gmail.com
+---
+
+## 😊 Emotion Detection System
+Built a real-time facial emotion recognition system using Python, OpenCV, and DeepFace.
+
+---
+
+## 🚨 Accident Detection & Alert System
+Designed an IoT-based emergency alert system integrating GPS and sensors for real-time accident detection.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Visualization
+- Statistics for Data Analytics
+- Business Intelligence
+- Dashboard Design
+
+---
+
+# 🌱 2026 Goals
+
+- Build 10+ Data Analytics projects
+- Master Power BI
+- Strengthen SQL & Python skills
+- Contribute to Open Source
+- Land a Data Analytics / Python Internship
+
+---
+
+# 📫 Connect with Me
+
+📧 Email: **s.dhananjaydharshan255@gmail.com**
 
 📍 Bengaluru, Karnataka, India
+
+---
+
+## 💡 Quote
+
+> *"Data is only valuable when it drives better decisions."*
 
 ---
 
