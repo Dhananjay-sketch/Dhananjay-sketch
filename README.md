@@ -1,105 +1,126 @@
-# Hi there! 👋 I'm Dhananjaya Dharshan s
+<h1 align="center">Hi 👋, I'm Dhananjaya Dharshan</h1>
+
+<h3 align="center">
+Python Developer • Aspiring Data Analyst • Business Intelligence Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Python+Developer;Aspiring+Data+Analyst;Business+Intelligence+Enthusiast;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+I enjoy transforming raw data into meaningful insights and building software that solves real-world problems.
 </p>
 
-## 🚀 Python Developer | Aspiring Data Analyst | Business Intelligence Enthusiast
+---
 
-I'm a Computer Science Engineering student passionate about solving real-world business problems using **Python, SQL, Data Analytics, and Business Intelligence**.
+## 👨‍💻 About Me
 
-I enjoy transforming raw data into actionable insights, building automation tools, and developing scalable applications that make decision-making easier.
+- 🎓 Computer Science Engineering Student
+- 📍 Bengaluru, Karnataka, India
+- 🐍 Passionate about Python, Data Analytics & Business Intelligence
+- 📊 Currently learning Power BI, Advanced SQL, and Data Visualization
+- 💡 Interested in solving business problems using data
+- 🚀 Looking for Python Developer, Data Analyst, and BI Internship opportunities
 
 ---
 
-## 🎯 Career Objective
+## 🛠 Tech Stack
 
-I'm currently seeking opportunities as a:
+### Programming
 
-- Python Developer Intern
-- Data Analyst Intern
-- Business Intelligence Intern
+- Python
+- SQL
+- JavaScript
+- C
+- C++
 
----
+### Data Analytics
 
-## 💻 Tech Stack
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI *(Learning)*
 
-<p align="left">
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,flask,git,github,vscode,mongodb" />
+- HTML
+- CSS
+- Flask
+- REST APIs
 
-</p>
----
+### Databases
 
-# 📊 Featured Projects
+- MySQL
+- MongoDB
 
-## 📈 Vrinda Store Sales Analysis
-Analyzed sales data using Excel to identify customer behavior, top-performing states, revenue trends, and actionable business insights.
+### Tools
 
----
-
-## 👨‍💼 Employee Management System
-Python + MySQL application with CRUD operations for managing employee records efficiently.
-
----
-
-## 😊 Emotion Detection System
-Built a real-time facial emotion recognition system using Python, OpenCV, and DeepFace.
-
----
-
-## 🚨 Accident Detection & Alert System
-Designed an IoT-based emergency alert system integrating GPS and sensors for real-time accident detection.
+- Git
+- GitHub
+- VS Code
+- Linux
 
 ---
 
-# 📚 Currently Learning
+# 📂 Featured Projects
 
-- Advanced SQL
+## 📊 Data Analytics
+
+### 📈 Vrinda Store Sales Analysis
+Analyzed retail sales data using Excel to uncover customer behavior, sales trends, and business insights.
+
+---
+
+## 🐍 Python Development
+
+### 👨‍💼 Employee Management System
+Python + MySQL application implementing CRUD operations and database management.
+
+### 📡 RFID Attendance System
+Automated attendance management using Python and RFID technology.
+
+### 😊 Emotion Detection System
+Real-time facial emotion recognition using OpenCV and DeepFace.
+
+### 🚨 Accident Detection & Alert System
+IoT-based emergency alert system integrating GPS and sensors.
+
+---
+
+## 🌱 Currently Learning
+
 - Power BI
-- Data Visualization
+- Advanced SQL
+- Data Cleaning
+- Dashboard Design
 - Statistics for Data Analytics
 - Business Intelligence
-- Dashboard Design
 
 ---
 
-# 🌱 2026 Goals
+## 🎯 2026 Goals
 
-- Build 10+ Data Analytics projects
-- Master Power BI
-- Strengthen SQL & Python skills
-- Contribute to Open Source
-- Land a Data Analytics / Python Internship
-
----
-
-# 📫 Connect with Me
-
-📧 Email: **s.dhananjaydharshan255@gmail.com**
-
-📍 Bengaluru, Karnataka, India
+- 📊 Build 10+ Data Analytics projects
+- 🐍 Master Python for Data Analysis
+- 📈 Become proficient in Power BI
+- 💾 Strengthen SQL skills
+- 🌍 Contribute to Open Source
+- 💼 Secure a Data Analytics / Python Internship
 
 ---
 
-## 💡 Quote
+## 📫 Connect With Me
 
-> *"Data is only valuable when it drives better decisions."*
+📧 **Email:** dhananjaydharshan255@gmail.com
+
+💼 **LinkedIn:** *(Add your LinkedIn URL here)*
+
+🐙 **GitHub:** https://github.com/Dhananjay-sketch
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
+## 💭 Quote
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhananjay-sketch&show_icons=true&theme=tokyonight"/>
+> **"Good data tells a story. Great analysis drives decisions."**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay-sketch&layout=compact&theme=tokyonight"/>
+---
 
-</p>
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhananjay-sketch&theme=algolia&row=1&column=6"/>
-
-</p>
 ⭐ Thanks for visiting my profile!
